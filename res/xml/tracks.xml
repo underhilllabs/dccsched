@@ -39,6 +39,36 @@
         <color>#007A35</color>
         <abstract></abstract>
     </track>
+
+   <track>
+        <name>Platinum</name>
+        <color>#888888</color>
+        <abstract></abstract>
+    </track>
+
+   <track>
+        <name>Gold</name>
+        <color>#EEB211</color>
+        <abstract></abstract>
+    </track>
+
+   <track>
+        <name>Silver</name>
+        <color>#bbbbbb</color>
+        <abstract></abstract>
+    </track>
+
+   <track>
+        <name>Bronze</name>
+        <color>#8C7853</color>
+        <abstract></abstract>
+    </track>
+   <track>
+        <name>Individual</name>
+        <color>#F47CBE</color>
+        <abstract></abstract>
+    </track>
+
     
 
 <!--

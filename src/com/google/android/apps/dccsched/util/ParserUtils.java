@@ -52,7 +52,7 @@ public class ParserUtils {
     public static final String BLOCK_TYPE_OFFICE_HOURS = "officehours";
 
     public static final Set<String> LOCAL_TRACK_IDS = Sets.newHashSet(
-            "business", "development", "design", "community");
+	   "platinum","gold","silver","bronze", "business", "development", "design", "community");
 
     /** Used to sanitize a string to be {@link Uri} safe. */
     private static final Pattern sSanitizePattern = Pattern.compile("[^a-z0-9-_]");
