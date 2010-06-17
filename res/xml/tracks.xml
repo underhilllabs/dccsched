@@ -18,25 +18,25 @@
     
     <track>
         <name>Business</name>
-        <color>#2A5699</color>
+        <color>#BF0000</color>
         <abstract></abstract>
     </track>
     
     <track>
         <name>Design</name>
-        <color>#FFCC00</color>
+        <color>#EEB211</color>
         <abstract></abstract>
     </track>
     
     <track>
         <name>Development</name>
-        <color>#FF0000</color>
+        <color>#0066CC</color>
         <abstract></abstract>
     </track>
     
     <track>
         <name>Community</name>
-        <color>#0FABFF</color>
+        <color>#007A35</color>
         <abstract></abstract>
     </track>
     
