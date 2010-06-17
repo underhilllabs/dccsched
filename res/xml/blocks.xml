@@ -18,37 +18,34 @@
 
     <!-- Wednesday, May 19th 2010 -->
     <block>
-        <start>2010-06-26T08:45:00.000-07:00</start>
-          <end>2010-06-26T09:30:00.000-07:00</end>
-        <title>Registration/Check-in</title>
+        <start>2010-06-26T08:45:00.000-06:00</start>
+          <end>2010-06-26T09:30:00.000-06:00</end>
+        <title>Check-in</title>
+        <type>food</type>
     </block>
     <block>
-        <start>2010-06-27T09:00:00.000-07:00</start>
-          <end>2010-06-27T09:15:00.000-07:00</end>
+        <start>2010-06-27T09:00:00.000-06:00</start>
+          <end>2010-06-27T09:15:00.000-06:00</end>
         <title>Welcome</title>
+        <type>session</type>
     </block>
     <block>
-        <start>2010-06-26T12:00:00.000-07:00</start>
-          <end>2010-06-26T13:30:00.000-07:00</end>
+        <start>2010-06-26T12:00:00.000-06:00</start>
+          <end>2010-06-26T13:30:00.000-06:00</end>
         <title>Lunch served</title>
         <type>food</type>
     </block>
     <!-- Thursday, May 20th 2010 -->
     <block>
-        <start>2010-06-27T09:00:00.000-07:00</start>
-          <end>2010-06-27T09:15:00.000-07:00</end>
-        <title>Welcome</title>
-    </block>
-    <block>
-        <start>2010-06-27T12:30:00.000-07:00</start>
-          <end>2010-06-27T14:00:00.000-07:00</end>
+        <start>2010-06-27T12:45:00.000-06:00</start>
+          <end>2010-06-27T14:15:00.000-06:00</end>
         <title>Lunch served</title>
         <type>food</type>
     </block>
     <block>
-        <start>2010-06-27T17:45:00.000-07:00</start>
-          <end>2010-06-27T18:15:00.000-07:00</end>
-        <title>Closing Remarks</title>
+        <start>2010-06-27T17:45:00.000-06:00</start>
+          <end>2010-06-27T18:15:00.000-06:00</end>
+        <title>Closing</title>
         <type>session</type>
     </block>
 
