@@ -17,41 +17,29 @@
 <tracks>
     
     <track>
-        <name>Introducing Drupal</name>
+        <name>Business</name>
         <color>#2A5699</color>
-        <abstract>Android is the first free, open source, and fully customizable mobile platform.  Android offers a full software stack: an operating system, middleware, and key mobile applications.  It also contains a rich set of tools, features, and APIs that allows third-party developers to develop great applications.</abstract>
+        <abstract></abstract>
     </track>
     
     <track>
-        <name>Theming, Design & Usability</name>
+        <name>Design</name>
         <color>#FFCC00</color>
-        <abstract>App Engine is a powerful cloud computing platform which lets you build and run your apps on Google's reliable, scalable infrastructure. At Google I/O, learn directly from engineers on the App Engine team about how to get maximum performance out of your app and how to leverage exciting new features.</abstract>
+        <abstract></abstract>
     </track>
     
     <track>
-        <name>Code & Development</name>
+        <name>Development</name>
         <color>#FF0000</color>
-        <abstract>Users know Google Chrome for its speed, stability, and security. We also have a lot to offer developers, including support for a range of HTML5 features, developer tools to help build and debug applications, and a new platform, Google Chrome OS, on which web apps get to take center stage. Come learn about the new features and capabilities that Google Chrome and Google Chrome OS offer developers.</abstract>
+        <abstract></abstract>
     </track>
     
     <track>
-        <name>Configuration, Set-up & Performance</name>
+        <name>Community</name>
         <color>#0FABFF</color>
-        <abstract>Google Apps serves more than 2 million businesses today.  The needs of these businesses are sometimes different than consumer needs, and so are the technologies you'll need to serve them - but there's significant money to be made!  This track focuses on APIs, services, and strategies that will help you build effective software and businesses focused on businesses.</abstract>
+        <abstract></abstract>
     </track>
     
-    <track>
-        <name>Drupal for Business</name>
-        <color>#A0CE67</color>
-        <abstract>Fireside Chats bring together developers and Google engineering teams in an informal setting to ask those hard questions, discuss approaches to problems, and think about the future.</abstract>
-    </track>
-    
-    <track>
-        <name>Providing Professional Drupal Services</name>
-        <color>#EEB211</color>
-        <abstract>While the Google Maps API remains the most popular mashup API in use today, it is just one part of Google's growing geospatial developer platform. This track illustrates the full breadth of Google's geospatial developer offerings, highlighting many of the exciting new services and features with which you can bring a new perspective on the world to your users.</abstract>
-    </track>
-
 
 <!--
 0066CC  Blue

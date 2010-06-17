@@ -16,106 +16,41 @@
 -->
 <blocks>
 
-    <!-- Tuesday, May 18th 2010 -->
-    <block>
-        <start>2010-05-18T12:00:00.000-07:00</start>
-          <end>2010-05-18T19:00:00.000-07:00</end>
-        <title>On-site registration</title>
-    </block>
-    <block>
-        <start>2010-05-18T14:00:00.000-07:00</start>
-          <end>2010-05-18T20:00:00.000-07:00</end>
-        <title>BootCamp</title>
-    </block>
-
     <!-- Wednesday, May 19th 2010 -->
     <block>
-        <start>2010-05-19T07:00:00.000-07:00</start>
-          <end>2010-05-19T22:00:00.000-07:00</end>
-        <title>On-site registration</title>
+        <start>2010-06-26T08:45:00.000-07:00</start>
+          <end>2010-06-26T09:30:00.000-07:00</end>
+        <title>Registration/Check-in</title>
     </block>
     <block>
-        <start>2010-05-19T07:30:00.000-07:00</start>
-          <end>2010-05-19T10:00:00.000-07:00</end>
-        <title>Breakfast</title>
-        <type>food</type>
+        <start>2010-06-27T09:00:00.000-07:00</start>
+          <end>2010-06-27T09:15:00.000-07:00</end>
+        <title>Welcome</title>
     </block>
     <block>
-        <start>2010-05-19T09:00:00.000-07:00</start>
-          <end>2010-05-19T10:30:00.000-07:00</end>
-        <title>Keynote</title>
-        <type>session</type>
-    </block>
-    <block>
-        <start>2010-05-19T10:30:00.000-07:00</start>
-          <end>2010-05-19T18:30:00.000-07:00</end>
-        <title>Developer Sandbox</title>
-    </block>
-    <block>
-        <start>2010-05-19T11:45:00.000-07:00</start>
-          <end>2010-05-19T13:30:00.000-07:00</end>
+        <start>2010-06-26T12:00:00.000-07:00</start>
+          <end>2010-06-26T13:30:00.000-07:00</end>
         <title>Lunch served</title>
         <type>food</type>
     </block>
-    <block>
-        <start>2010-05-19T12:00:00.000-07:00</start>
-          <end>2010-05-19T14:30:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
-    </block>
-    <block>
-        <start>2010-05-19T14:30:00.000-07:00</start>
-          <end>2010-05-19T17:00:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
-    </block>
-    <block>
-        <start>2010-05-19T18:30:00.000-07:00</start>
-          <end>2010-05-19T22:30:00.000-07:00</end>
-        <title>After Hours evening party</title>
-        <type>food</type>
-    </block>
-
     <!-- Thursday, May 20th 2010 -->
     <block>
-        <start>2010-05-20T07:00:00.000-07:00</start>
-          <end>2010-05-20T16:00:00.000-07:00</end>
-        <title>On-site registration</title>
+        <start>2010-06-27T09:00:00.000-07:00</start>
+          <end>2010-06-27T09:15:00.000-07:00</end>
+        <title>Welcome</title>
     </block>
     <block>
-        <start>2010-05-20T08:00:00.000-07:00</start>
-          <end>2010-05-20T09:30:00.000-07:00</end>
-        <title>Breakfast</title>
-        <type>food</type>
-    </block>
-    <block>
-        <start>2010-05-20T08:30:00.000-07:00</start>
-          <end>2010-05-20T10:00:00.000-07:00</end>
-        <title>Keynote</title>
-        <type>session</type>
-    </block>
-    <block>
-        <start>2010-05-20T10:00:00.000-07:00</start>
-          <end>2010-05-20T18:00:00.000-07:00</end>
-        <title>Developer Sandbox</title>
-    </block>
-    <block>
-        <start>2010-05-20T12:30:00.000-07:00</start>
-          <end>2010-05-20T14:00:00.000-07:00</end>
+        <start>2010-06-27T12:30:00.000-07:00</start>
+          <end>2010-06-27T14:00:00.000-07:00</end>
         <title>Lunch served</title>
         <type>food</type>
     </block>
     <block>
-        <start>2010-05-20T12:30:00.000-07:00</start>
-          <end>2010-05-20T15:00:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
+        <start>2010-06-27T17:45:00.000-07:00</start>
+          <end>2010-06-27T18:15:00.000-07:00</end>
+        <title>Closing Remarks</title>
+        <type>session</type>
     </block>
-    <block>
-        <start>2010-05-20T15:00:00.000-07:00</start>
-          <end>2010-05-20T17:30:00.000-07:00</end>
-        <title>Office hours</title>
-        <type>officehours</type>
-    </block>
+
 
 </blocks>

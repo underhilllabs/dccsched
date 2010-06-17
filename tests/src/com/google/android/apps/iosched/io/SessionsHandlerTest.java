@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.google.android.apps.iosched.io;
+package com.google.android.apps.dccsched.io;
 
-import com.google.android.apps.iosched.provider.ScheduleContract;
-import com.google.android.apps.iosched.provider.ScheduleProvider;
-import com.google.android.apps.iosched.provider.ScheduleContract.Sessions;
-import com.google.android.apps.iosched.provider.ScheduleContract.Tracks;
-import com.google.android.apps.iosched.util.ParserUtils;
+import com.google.android.apps.dccsched.provider.ScheduleContract;
+import com.google.android.apps.dccsched.provider.ScheduleProvider;
+import com.google.android.apps.dccsched.provider.ScheduleContract.Sessions;
+import com.google.android.apps.dccsched.provider.ScheduleContract.Tracks;
+import com.google.android.apps.dccsched.util.ParserUtils;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;

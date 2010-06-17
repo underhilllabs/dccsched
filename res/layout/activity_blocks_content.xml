@@ -16,30 +16,30 @@
 -->
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:iosched="http://schemas.android.com/apk/res/com.google.android.apps.iosched"
+    xmlns:dccsched="http://schemas.android.com/apk/res/com.google.android.apps.dccsched"
     android:id="@+id/blocks_scroll"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
     <view
-        class="com.google.android.apps.iosched.ui.widget.BlocksLayout"
+        class="com.google.android.apps.dccsched.ui.widget.BlocksLayout"
         android:id="@+id/blocks"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        iosched:columns="3">
+        dccsched:columns="3">
         <view
-            class="com.google.android.apps.iosched.ui.widget.TimeRulerView"
+            class="com.google.android.apps.dccsched.ui.widget.TimeRulerView"
             android:id="@id/blocks_ruler"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            iosched:headerWidth="46dip"
-            iosched:hourHeight="60dip"
-            iosched:horizontalDivider="true"
-            iosched:labelTextSize="13sp"
-            iosched:labelPaddingLeft="5dip"
-            iosched:labelColor="#000000"
-            iosched:dividerColor="#d9d9d9"
-            iosched:startHour="7"
-            iosched:endHour="23" />
+            dccsched:headerWidth="46dip"
+            dccsched:hourHeight="60dip"
+            dccsched:horizontalDivider="true"
+            dccsched:labelTextSize="13sp"
+            dccsched:labelPaddingLeft="5dip"
+            dccsched:labelColor="#000000"
+            dccsched:dividerColor="#d9d9d9"
+            dccsched:startHour="7"
+            dccsched:endHour="23" />
         <View
             android:id="@id/blocks_now"
             android:background="@drawable/now_bar"

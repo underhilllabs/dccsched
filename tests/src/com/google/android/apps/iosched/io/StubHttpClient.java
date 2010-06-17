@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.android.apps.iosched.io;
+package com.google.android.apps.dccsched.io;
 
 import org.apache.http.ConnectionReuseStrategy;
 import org.apache.http.HttpEntity;
