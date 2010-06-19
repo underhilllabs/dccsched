@@ -38,7 +38,7 @@
             dccsched:labelPaddingLeft="5dip"
             dccsched:labelColor="#000000"
             dccsched:dividerColor="#d9d9d9"
-            dccsched:startHour="7"
+            dccsched:startHour="8"
             dccsched:endHour="23" />
         <View
             android:id="@id/blocks_now"

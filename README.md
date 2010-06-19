@@ -13,6 +13,9 @@ How to Update the App code for your Convention
 7. also edit ui/ScheduleActivity.java
 8. edit util/UiUtils.java and change data and timezome
 9. edit ParserUtils.java and edit the Tracks list
+10. edit res/layout/activity_blocks_content.xml if you need to adjust what time schedule activity starts at: I changed
+    the schedule activity to start at 8am instead of 7am--otherwise there was a big white space gap at the start.
+11. edit src/com/google/android/apps/ui/MapsActivity.java and change MAP_URL to be your conventions location.
 
 How to Compile and test app with Ant
 ===============================

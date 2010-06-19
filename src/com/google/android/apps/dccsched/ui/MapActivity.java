@@ -50,7 +50,8 @@ public class MapActivity extends Activity {
     public static final String OFFICE_HOURS_ROOM_ID = "officehours";
 
     private static final String MAP_JSI_NAME = "MAP_CONTAINER";
-    private static final String MAP_URL = "http://code.google.com/events/io/2010/map/embed.html";
+    //private static final String MAP_URL = "http://code.google.com/events/io/2010/map/embed.html";
+    private static final String MAP_URL = "http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=110937250986537262874.00048551729d89882ed91&source=embed&ll=39.745936,-105.001745&spn=0.034053,0.077162&z=14";
     private static boolean CLEAR_CACHE_ON_LOAD = false;
 
     private WebView mWebView;
