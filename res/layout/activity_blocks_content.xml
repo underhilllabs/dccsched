@@ -16,18 +16,18 @@
 -->
 <ScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:dccsched="http://schemas.android.com/apk/res/com.google.android.apps.dccsched"
+    xmlns:dccsched="http://schemas.android.com/apk/res/com.underhilllabs.dccsched"
     android:id="@+id/blocks_scroll"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
     <view
-        class="com.google.android.apps.dccsched.ui.widget.BlocksLayout"
+        class="com.underhilllabs.dccsched.ui.widget.BlocksLayout"
         android:id="@+id/blocks"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         dccsched:columns="3">
         <view
-            class="com.google.android.apps.dccsched.ui.widget.TimeRulerView"
+            class="com.underhilllabs.dccsched.ui.widget.TimeRulerView"
             android:id="@id/blocks_ruler"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"

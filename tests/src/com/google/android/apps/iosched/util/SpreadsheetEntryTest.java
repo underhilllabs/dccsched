@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.android.apps.dccsched.util;
+package com.underhilllabs.dccsched.util;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
